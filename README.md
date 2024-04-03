@@ -9,9 +9,9 @@
     - I also want to know the frequency of violent crimes
 
 3) Sources
-    S1: NYPD Arrest Dataset 
-    S2: API for NYPD Arrest Dataset 
-    both are from NYC OpenData; URL: https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Year-to-Date-/uip8-fykc/about_data
+    - S1: NYPD Arrest Dataset 
+    - S2: API for NYPD Arrest Dataset 
+    - both are from NYC OpenData; URL: https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Year-to-Date-/uip8-fykc/about_data
     
 4) Include data dictonary
 
