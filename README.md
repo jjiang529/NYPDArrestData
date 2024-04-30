@@ -8,13 +8,14 @@
     - With those counts of crime, I want to see what type of crimes are commited 
     - I also want to know the frequency of violent crimes
 
-3) Sources
-    - S1: NYPD Arrest Dataset 
-    - S2: API for NYPD Arrest Dataset 
-    - both are from NYC OpenData; URL: https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Year-to-Date-/uip8-fykc/about_data
+3) Source
+    - NYPD Arrest Dataset 
+     - From NYC OpenData
     
-4) Include data dictonary
 
-5) Include Dimensional Modeling 
+Data tool
+    - Storage: Azure
+    - ETL: Python 
+    - Datawarehouse: Google BigQuery
+    - Serving: PowerBI 
 
-6) Create a datawarehouse 
